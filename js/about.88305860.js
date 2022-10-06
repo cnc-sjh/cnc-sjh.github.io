@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdown_app"]=self["webpackChunkdown_app"]||[]).push([[443],{7381:function(n,a,u){u.r(a),u.d(a,{default:function(){return d}});var t=u(3396);const e={class:"about"},r=(0,t._)("h1",null,"This is an about page",-1),s=[r];function c(n,a){return(0,t.wg)(),(0,t.iD)("div",e,s)}var o=u(89);const i={},p=(0,o.Z)(i,[["render",c]]);var d=p}}]);
+//# sourceMappingURL=about.88305860.js.map
